@@ -2,7 +2,7 @@
 
 Emily Petroff
 
-This repository holds scripts necessary to fit for S/N, DM, and width for an FRB pulse in a specified filterbank file.
+This repository holds scripts necessary to fit for S/N, DM, and width for an FRB pulse in a specified filterbank file. The values obtained from running these scripts are used in the Swinburne FRB catalogue (http://www.astronomy.swin.edu.au/pulsar/frbcat/)
 
 This processing pipeline has the following software requirements:
 psrchive (psrchive.sourceforge.net)
